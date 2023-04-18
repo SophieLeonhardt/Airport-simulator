@@ -1,0 +1,5 @@
+
+public enum TravelClass {
+	FIRSTCLASS, BUSINESSCLASS, PREMIUMECONOMY, ECONOMY;
+
+}
